@@ -1,6 +1,4 @@
 <h1> Hello, Welcome to Simple DevOps Project Joel !!   </h1>
 <h2> We will build everthing in this video </h2>
-<h2> We have gone thru the whole cycle in this project </h2>
-<h2> Very very good job !!! </h2> 
-<h2> This is how we do !!! </h2> 
-<h1> We have run a whole circle in this project </h1> 
+<h2> This is a revision of the whole project on 8 August 2022 </h2>
+>>>>>>> 013c21ceacf7902d7b2ceddd96dcb8eb32466b6a
